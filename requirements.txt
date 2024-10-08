@@ -1,0 +1,8 @@
+langchain_groq
+pandas
+groq
+gradio
+langchain-pinecone 
+pinecone-notebooks
+langchain_huggingface
+sentence-transformers
